@@ -1,0 +1,2 @@
+# SMU-homework
+exercise github
